@@ -6,6 +6,7 @@ public class Gitdemo {
 		System.out.println("Demo2 Git");
 		System.out.println("Checkout");
 		System.out.println("branch1");
+		System.out.println("Merge branch");
 
 
 	}
